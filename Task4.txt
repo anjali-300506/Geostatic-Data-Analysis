@@ -1,0 +1,12 @@
+﻿INSIGHT:
+Using the customer locations from sales data, geospatial analysis identified multiple demand clusters. Using the relationship between customer demand and existing store presence, areas demanding purchase but with limited/few stores were identified.
+Key Findings:
+* Demand from consumers is clustered in certain areas of the geography.
+* Certain clusters have far higher demand than the stores you currently have in place.
+* The most under-served market is the one shown by a high demand-to-store ratio.
+* Business Recommendation:
+* Focus on growing in the category you find to be a high-demand, low-presence cluster.
+* A store in this region shall help the company reach its customers more easily, improve its market share and fulfil the unmet demand.
+* This area should be given additional marketing and logistics resources to unlock true growth potential.
+Conclusion:
+ The analysis was able to map out sales visually, identified the two hotspots where demand is triggered and depicted regions suitable site for business. The ideal area for expansion is where the income potential will be realistically highest and where there are weaknesses in current market coverage.
